@@ -1,6 +1,6 @@
 Hello
-<h2> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/zEY72qPnZML2PwAYFN/giphy.gif" width="230">
+<h2> Hi, I'm Irwin Bravo Oporto! <img src="https://gph.is/st/YkRJBvO.gif" width="50"></h2>
+<img align='right' src="https://gph.is/st/YkRJBvO.gif" width="230">
 <p><em>student of <a href="https://www.laboratoria.la/">Laboratoria</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer<a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -17,3 +17,4 @@ const Alex = {
  }
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
