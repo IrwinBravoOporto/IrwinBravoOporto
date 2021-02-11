@@ -1,7 +1,7 @@
 Hello
 <h2> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/BlKHVUekFkvEiHaua7/giphy.gif" width="230">
-<p><em>student of <a href="https://www.laboratoria.la/">Laboratoria</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer<a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>student of <a href="https://www.utp.edu.pe//">UTP</a><img src="https://media.giphy.com/media/zEY72qPnZML2PwAYFN/giphy.gif" width="30"></br>Developer<a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: sinais-blanco-guanda](https://img.shields.io/badge/-sinais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinais-blanco-guanda-9365321b9/)](https://www.linkedin.com/in/sinais-blanco-guanda-9365321b9/)
