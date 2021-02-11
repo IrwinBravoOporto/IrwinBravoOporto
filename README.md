@@ -1,6 +1,6 @@
 Hello
-<h2> Hi, I'm Irwin Bravo Oporto! <img src="https://gph.is/st/YkRJBvO.gif" width="50"></h2>
-<img align='right' src="https://gph.is/st/YkRJBvO.gif" width="230">
+<h2> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/BlKHVUekFkvEiHaua7/giphy.gif" width="230">
 <p><em>student of <a href="https://www.laboratoria.la/">Laboratoria</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer<a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
