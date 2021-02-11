@@ -1,27 +1,14 @@
-### Hi there 👋
-
 <!--
 **IrwinBravoOporto/IrwinBravoOporto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 Hello
-<h2> Hi, I'm Irwin Bravo Oporto! <img src="https://giphy.com/stickers/transparent-LXRBO59pLq91n2Ktdu.gif" width="50"></h2>
+<h2> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h2>
 <img align='right' src="https://giphy.com/gifs/A8oGuqnB7g0xbi6MOj.gif" width="230">
 <p><em>Software Engineer of <a https://www.utp.edu.pe/">UTP</a><img src="https://giphy.com/stickers/transparent-LXRBO59pLq91n2Ktdu.gif" width="30"></br>Developer<a></a><img src="https://giphy.com/stickers/transparent-LXRBO59pLq91n2Ktdu.gif" width="30"> 
 </em></p>
 
-[![Linkedin: irwin-bravo-oporto](https://img.shields.io/badge/-sinais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irwinbravooporto/)](https://www.linkedin.com/in/irwinbravooporto/)
+[![Linkedin:irwin-bravo-oporto](https://img.shields.io/badge/-sinais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irwinbravooporto/)](https://www.linkedin.com/in/irwinbravooporto/)
 [![GitHub sinais](https://img.shields.io/github/followers/IrwinBravoOporto?label=follow&style=social)](https://github.com/IrwinBravoOporto)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
