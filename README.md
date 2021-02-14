@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/BlKHVUekFkvEiHaua7/giphy.gif" width="250">
+<img align='right' src="https://media.giphy.com/media/BlKHVUekFkvEiHaua7/giphy.gif" width="200">
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=IrwinBravoOporto&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=dark)
@@ -20,4 +20,6 @@
 
 
 <img src="https://media.giphy.com/media/WDoKnZsZrFYw8/giphy.gif" width="60"> <em><b>The important thing is the path and in the fall, get up, insist and learn!</b> :)</em>
+
+[linkedin]: https://linkedin.com/in/astemireleev
 
