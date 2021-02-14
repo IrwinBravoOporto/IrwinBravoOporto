@@ -1,3 +1,8 @@
+![Stats](https://github-readme-stats.vercel.app/api?username=jVirus&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=dark)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jVirus&count_private=true&layout=compact&theme=dark)
+
+
 <h2> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/BlKHVUekFkvEiHaua7/giphy.gif" width="230">
 <p><em>Bachelor Software Engineer of <a href="https://www.utp.edu.pe/">Utp</a><img src="https://media.giphy.com/media/A8oGuqnB7g0xbi6MOj/giphy.gif" width="30"></br>Developer Mobile iOS<a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
