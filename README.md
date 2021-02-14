@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h2>
+<h1> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h1>
 
 <img align='right' src="https://media.giphy.com/media/BlKHVUekFkvEiHaua7/giphy.gif" width="200">
 
@@ -9,7 +9,7 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwinBravoOporto&count_private=true&layout=compact&theme=dark)
 
-<h1> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h1>
+<h3> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h3>
 
 
 <p><em>Bachelor Software Engineer of <a href="https://www.utp.edu.pe/">Utp</a><img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="30"></br>Developer Mobile iOS<a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
