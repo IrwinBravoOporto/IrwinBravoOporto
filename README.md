@@ -9,8 +9,10 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwinBravoOporto&count_private=true&layout=compact&theme=dark)
 
+<h1> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h1>
 
-<p><em>Bachelor Software Engineer of <a href="https://www.utp.edu.pe/">Utp</a><img src="https://media.giphy.com/media/A8oGuqnB7g0xbi6MOj/giphy.gif" width="30"></br>Developer Mobile iOS<a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+<p><em>Bachelor Software Engineer of <a href="https://www.utp.edu.pe/">Utp</a><img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="30"></br>Developer Mobile iOS<a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
