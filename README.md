@@ -4,13 +4,8 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=IrwinBravoOporto&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=dark)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwinBravoOporto&count_private=true&layout=compact&theme=dark)
-
-
-
 <h2> Bachelor Software Engineer <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h2>
-
 <h3> iOS Developer Mobile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
-
 [![Linkedin: irwin-bravo-oporto](https://img.shields.io/badge/-irwin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irwinbravooporto/)](https://www.linkedin.com/in/irwinbravooporto/)
 [![GitHub irwin-bravo-oporto](https://img.shields.io/github/followers/IrwinBravoOporto?label=follow&style=social)](https://github.com/IrwinBravoOporto)
 
