@@ -19,7 +19,7 @@
 
 
 
-<img src="https://media.giphy.com/media/WDoKnZsZrFYw8/giphy.gif" width="60"> <em><b>The important thing is the path and in the fall, get up, insist and learn!</b> :)</em>
+<img src="https://media.giphy.com/media/WDoKnZsZrFYw8/giphy.gif" width="40"> <em><b>The important thing is the path and in the fall, get up, insist and learn!</b> :)</em>
 
 
 <img align="left" alt="iOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
@@ -32,10 +32,8 @@
 <img align="left" alt="CoreData" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coredata.png?raw=true" />
 <img align="left" alt="CoreAnimation" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coreanimation.png?raw=true" />
 <img align="left" alt="AVFoundation" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/avfoundation.png?raw=true" />
-<img align="left" alt="Metal" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/metal.png?raw=true" />
 <img align="left" alt="SpriteKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/spritekit.png?raw=true" />
 <img align="left" alt="SceneKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/scenekit.png?raw=true" />
-<img align="left" alt="GameplayKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/gameplaykit.png?raw=true" />
 <img align="left" alt="ModelIO" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/modelio.png?raw=true" />
 <img align="left" alt="ReplayKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/replaykit.png?raw=true" />
 <img align="left" alt="CoreML" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coreml.png?raw=true" />
@@ -45,7 +43,6 @@
 <img align="left" alt="WidgetKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/widgetkit.png?raw=true" />
 <img align="left" alt="CoreAudio" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/coreaudio.png?raw=true" />
 <img align="left" alt="CloudKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/cloudkit.png?raw=true" />
-<img align="left" alt="SiriKit" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/sirikit.png?raw=true" />
 <img align="left" alt="Sketch" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sketch/sketch.png" />
 <img align="left" alt="Firebase" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Terminal" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
