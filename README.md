@@ -1,7 +1,7 @@
 
 <h1> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h1>
 
-<img align='right' src="https://media.giphy.com/media/BlKHVUekFkvEiHaua7/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/BlKHVUekFkvEiHaua7/giphy.gif" width="160">
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=IrwinBravoOporto&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=dark)
@@ -9,10 +9,8 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwinBravoOporto&count_private=true&layout=compact&theme=dark)
 
-<h3> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h3>
-
-
-<p><em>Bachelor Software Engineer of <a href="https://www.utp.edu.pe/">Utp</a><img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="30"></br>Developer Mobile iOS<a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h3> Bachelor Software Engineer <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h3>
+<p><em>Universidad Tecnologica del Peru<a href="https://www.utp.edu.pe/">Utp</a></br>iOS Developer Mobile<a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
