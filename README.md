@@ -10,8 +10,7 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwinBravoOporto&count_private=true&layout=compact&theme=dark)
 
 <h3> Bachelor Software Engineer <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h3>
-<p><em>Universidad Tecnologica del Peru <a href="https://www.utp.edu.pe/"> Utp </a></br> iOS Developer Mobile <a></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <em><iOS Developer Mobile </b> :p </em>
 
 
 [![Linkedin: irwin-bravo-oporto](https://img.shields.io/badge/-irwin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irwinbravooporto/)](https://www.linkedin.com/in/irwinbravooporto/)
