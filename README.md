@@ -7,16 +7,16 @@
 
 
 
-<h2> iOS Developer Mobile <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h2>
+<h2> Bachelor Software Engineer <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h2>
 
-<h3> Bachelor Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
+<h3> iOS Developer Mobile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
 
 [![Linkedin: irwin-bravo-oporto](https://img.shields.io/badge/-irwin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irwinbravooporto/)](https://www.linkedin.com/in/irwinbravooporto/)
 [![GitHub irwin-bravo-oporto](https://img.shields.io/github/followers/IrwinBravoOporto?label=follow&style=social)](https://github.com/IrwinBravoOporto)
 
 
+<img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="40"> <em><b>The important thing is the path and in the fall, get up, insist and learn!</b> :)</em>
 
-<img src="https://media.giphy.com/media/WDoKnZsZrFYw8/giphy.gif" width="40"> <em><b>The important thing is the path and in the fall, get up, insist and learn!</b> :)</em>
 <img align="left" alt="iOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 <img align="left" alt="Xcode" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
 <img align="left" alt="AppStore" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/appstore.png?raw=true" />
