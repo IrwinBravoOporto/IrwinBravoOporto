@@ -14,7 +14,6 @@
 
 
 [![Linkedin: irwin-bravo-oporto](https://img.shields.io/badge/-irwin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irwinbravooporto/)](https://www.linkedin.com/in/irwinbravooporto/)
-
 [![GitHub irwin-bravo-oporto](https://img.shields.io/github/followers/IrwinBravoOporto?label=follow&style=social)](https://github.com/IrwinBravoOporto)
 
 
