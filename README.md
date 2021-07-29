@@ -3,11 +3,8 @@
 <img align='right' src="https://media.giphy.com/media/BlKHVUekFkvEiHaua7/giphy.gif" width="190">
 
 
- <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IrwinBravoOporto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrwinBravoOporto&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=IrwinBravoOporto&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwinBravoOporto&count_private=true&layout=compact&theme=dracula)
 
 <h2> Bachelor Software Engineer <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="50"></h2>
 <h3> iOS Developer Mobile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
