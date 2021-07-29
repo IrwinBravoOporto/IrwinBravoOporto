@@ -25,8 +25,8 @@
 <img align="left" alt="SwiftUI" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/swiftui.png?raw=true" />
 <img align="left" alt="Objective-C" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
 <img align="left" alt="Firebase" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Cocoapods" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt8rPNCZHn2oHHooFTUZkb218FtwluTX9l8wUzEGic7sTHaW7JSod1kRr2dc-kyDPdnA&usqp=CAU" />
-<img align="left" alt="Alamofire" height="40px" src="https://cdn.nearsoft.com/uploads/2018/06/how-to-get-started-with-alamofire-lede1.png" />
+<img align="left" alt="Cocoapods" height="40px" src="https://raw.githubusercontent.com/CocoaPods/Design/master/assets/logo.png" />
+<img align="left" alt="Alamofire" height="40px" src="https://koenig-media.raywenderlich.com/uploads/2019/12/AlamofireGettingStarted-feature.png" />
   
   
  
