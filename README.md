@@ -19,7 +19,7 @@
 <img align="left" alt="AppStore" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/appstore.png?raw=true" />
 <img align="left" alt="Swift" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 <img align="left" alt="Objective-C" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
-<img align="left" alt="Cocoapods" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/cocoatouch.png?raw=true" />
+<img align="left" alt="Cocoapods" height="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40soufianerafik%2Fhow-to-add-pods-to-an-xcode-project-2994aa2abbf1&psig=AOvVaw1saPYI2u-GT0BqGkMBf1Cm&ust=1627615272646000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICjocmph_ICFQAAAAAdAAAAABAD" />
 <img align="left" alt="SwiftUI" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/swiftui.png?raw=true" />
 <img align="left" alt="Firebase" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Terminal" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
