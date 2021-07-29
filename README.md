@@ -1,5 +1,5 @@
 
-<h1> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/smGpsxCQzXwDS/giphy.gif" width="40"></h1>
+<h1> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/smGpsxCQzXwDS/giphy.gif" width="30"></h1>
 <img align='right' src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="190">
 
 
