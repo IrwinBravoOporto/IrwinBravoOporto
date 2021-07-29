@@ -22,7 +22,10 @@
 <img align="left" alt="Alamofire" height="40px" src="https://cdn.nearsoft.com/uploads/2018/06/how-to-get-started-with-alamofire-lede1.png" />
   
   
+  
+  
 <h3>Redes Sociales<img src="https://media.giphy.com/media/11kUypQPRKlIkw/giphy.gif" width="50"></h3>
+
 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
