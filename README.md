@@ -11,7 +11,7 @@
 [![GitHub irwin-bravo-oporto](https://img.shields.io/github/followers/IrwinBravoOporto?label=follow&style=social)](https://github.com/IrwinBravoOporto)
 
 
-<img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="40"> <em><b>The important thing is the path and in the fall, get up, insist and learn!</b> :)</em>
+<img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="40"> <em><b>«You have to work, you have to learn, you have to eat, you have to rest and you also have to play.››</b> :)</em>
 
 <img align="left" alt="iOS" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 <img align="left" alt="Xcode" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
