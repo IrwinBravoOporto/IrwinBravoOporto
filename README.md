@@ -9,7 +9,7 @@
 <div> 
   <a href = "irwinbravooporto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/irwinbravooporto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/irwinbravooporto/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAh1m06_3TS0Qp4WktmN7oarDLb6Ynr_XL7w&usqp=CAU" target="_blank"></a> 
+   <a href="https://www.tiktok.com/@irwinbravooporto?lang=es" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
   
 </div>
 
