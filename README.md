@@ -14,7 +14,7 @@
 
 
 
-<h2>iOS developer  <img src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" width="65"></h2>
+<h2>iOS developer  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="65"></h2>
 
 
  <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="40"> <em><b>«You have to work, you have to learn, you have to eat, you have to rest and you also have to play.››</b></em>
