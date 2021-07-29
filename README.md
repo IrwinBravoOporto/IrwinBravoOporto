@@ -19,7 +19,7 @@
 <img align="left" alt="AppStore" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/appstore.png?raw=true" />
 <img align="left" alt="Swift" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 <img align="left" alt="Objective-C" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />
-<img align="left" alt="Cocoapods" height="40px" src="https://static.platzi.com/media/blog/cocoapods-dca46005-7380-413e-ab88-d31f3c65a751.jpg" />
+<img align="left" alt="Cocoapods" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt8rPNCZHn2oHHooFTUZkb218FtwluTX9l8wUzEGic7sTHaW7JSod1kRr2dc-kyDPdnA&usqp=CAU" />
 <img align="left" alt="SwiftUI" height="40px" src="https://github.com/jVirus/jVirus/blob/master/Assets/swiftui.png?raw=true" />
 <img align="left" alt="Firebase" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Terminal" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
