@@ -7,7 +7,7 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwinBravoOporto&count_private=true&layout=compact&theme=dracula)
 
-<h2>iOS developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></h2>
+<h2>iOS developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
 
  <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="40"> <em><b>«You have to work, you have to learn, you have to eat, you have to rest and you also have to play.››</b></em>
@@ -21,7 +21,7 @@
 <img align="left" alt="Cocoapods" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt8rPNCZHn2oHHooFTUZkb218FtwluTX9l8wUzEGic7sTHaW7JSod1kRr2dc-kyDPdnA&usqp=CAU" />
 <img align="left" alt="Alamofire" height="40px" src="https://cdn.nearsoft.com/uploads/2018/06/how-to-get-started-with-alamofire-lede1.png" />
   
-  
+  </h2>
   
   
 <h2>Redes Sociales<img src="https://media.giphy.com/media/11kUypQPRKlIkw/giphy.gif" width="50"></h2>
