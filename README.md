@@ -1,5 +1,5 @@
 
-<h1> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/smGpsxCQzXwDS/giphy.gif" width="20"></h1>
+<h1> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/smGpsxCQzXwDS/giphy.gif" width="40"></h1>
 <img align='right' src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="190">
 
 
@@ -14,7 +14,7 @@
 
 
 
-<h2>iOS developer  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"></h2>
+<h2>iOS developer  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"></h2>
 
 
  <img src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="40"> <em><b>«You have to work, you have to learn, you have to eat, you have to rest and you also have to play.››</b></em>
