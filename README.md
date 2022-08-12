@@ -2,9 +2,11 @@
 <h1> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/smGpsxCQzXwDS/giphy.gif" width="25"></h1>
 <img align='right' src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="190">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=IrwinBravoOporto&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=dracula)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrwinBravoOporto&count_private=true&layout=compact&theme=dracula)
+<div align="center">
+  <a href="https://github.com/IrwinBravoOporto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IrwinBravoOporto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrwinBravoOporto&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 <div> 
