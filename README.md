@@ -1,13 +1,13 @@
 
 <h1> Hi, I'm Irwin Bravo Oporto! <img src="https://media.giphy.com/media/smGpsxCQzXwDS/giphy.gif" width="25"></h1>
-<img align='right' src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="190">
+
 
 <div align="center">
   <a href="https://github.com/IrwinBravoOporto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IrwinBravoOporto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrwinBravoOporto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+<img align='right' src="https://media.giphy.com/media/LXRBO59pLq91n2Ktdu/giphy.gif" width="190">
 
 <div> 
   <a href="https://www.linkedin.com/in/irwinbravooporto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
